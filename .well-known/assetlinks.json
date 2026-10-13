@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kanami.isa.ksma.learning",
+      "sha256_cert_fingerprints": [
+        "A8:2C:32:FD:32:6D:95:D0:41:EC:69:D0:52:29:2D:89:E5:62:47:EE:53:CA:F6:6B:C5:47:2D:3A:AA:2A:D1:8F"
+      ]
+    }
+  }
+]
